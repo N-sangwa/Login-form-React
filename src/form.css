@@ -1,0 +1,118 @@
+body{
+    background-color: #FDE19D;
+}
+form{
+   background-color: white;
+   width: 80%;
+   height: 85%;
+   margin-left: 10%;
+   margin-top: 5%;
+   position: fixed;
+   /* margin-bottom: 10%; */
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.firstlines{
+    display: flex;
+}
+.firstlines #signup{
+    margin-left: 58%;
+    margin-top: 4%;
+    color: #666;
+}
+.firstlines #logo{
+    margin-left:6%;
+    margin-top: 4%;
+    color: #469DA4;
+}
+.firstlines #signup span{
+    color: #469DA4;
+}
+.welcome p{
+    color: #666;
+    font-size: 30px;
+    margin-left:6%;
+}
+.image{
+    margin-top: -38%;
+    margin-left: 56%;
+}
+.email label{
+    margin-left: 6%;
+    color: #666;
+}
+.password{
+    margin-top: 3%;
+}
+.email input{
+    margin-left: 6%;
+    padding: 6px;
+    width: 400px;
+    color: #999;
+}
+.password label{
+    margin-left: 6%;
+    color: #666;
+}
+.password input{
+    margin-left: 6%;
+    padding: 6px;
+    width: 400px;
+}
+.logincheck{
+    display: flex;
+}
+.checking{
+    margin-top: 1%;
+    margin-left: 5.5%;
+    border: solid transparent;
+    width: 200px;
+}
+.checking label{
+    margin-left: 1%;
+    color: #666;
+}
+.forgot{
+    margin-left: 7.5%;
+}
+.forgot p{
+    color: #666;
+}
+.loginbtn{
+    margin-left: 6%;
+    margin-top: 2%;
+}
+.loginbtn button{
+    width: 415px;
+    padding: 9px;
+    color: white;
+    background-color: #469DA4;
+    border: solid transparent;
+    font-size: 18px;
+}
+
+hr{
+    width: 138px;
+
+    /* margin-right: 0%; */
+}
+
+.or{
+padding: 10px;
+margin-right: 48%;
+display: flex;
+}
+
+.icons{
+    margin-left: 22%;
+}
+
+.icons i{ 
+   padding: 5px;
+}
+
+
+
+
+
+
+
